@@ -1,0 +1,11 @@
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2.deps.json
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2.runtimeconfig.json
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2.runtimeconfig.dev.json
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2.dll
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/bin/Debug/netcoreapp3.1/2.pdb
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/obj/Debug/netcoreapp3.1/2.csprojAssemblyReference.cache
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/obj/Debug/netcoreapp3.1/2.AssemblyInfoInputs.cache
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/obj/Debug/netcoreapp3.1/2.AssemblyInfo.cs
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/obj/Debug/netcoreapp3.1/2.dll
+/Users/abbaskhoramnazari/Documents/Behrad/alibaba/2/obj/Debug/netcoreapp3.1/2.pdb
